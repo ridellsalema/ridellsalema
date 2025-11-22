@@ -1,7 +1,7 @@
-# 👋 Hey, I'm Ridell Salema!  
+#  Hey, I'm Ridell Salema!  
 
 
-## 💡 About Me  
+## About Me  
 
 -I'm a **finance and fintech enthusiast** with a deep interest in **economics, financial markets, and technology**. I love understanding **how money moves, how people and institutions make financial decisions, and how technology is reshaping finance**.  
 
@@ -9,23 +9,23 @@
 
 
 
-## 🔥 My Interests  
+## My Interests  
 
-- 📊 **Finance & Economics** – Stocks, bonds, banking, and government policies.  
+- **Finance & Economics** – Stocks, bonds, banking, and government policies.  
 
-- 💻 **Fintech & Innovation** – Digital banking, payments, DeFi, and blockchain.
+- **Fintech & Innovation** – Digital banking, payments, DeFi, and blockchain.
 
-- 🔐 **Cybersecurity in Finance** – Protecting financial systems from evolving threats.  
+- **Cybersecurity in Finance** – Protecting financial systems from evolving threats.  
 
-- 🚗 **Cars & Automotive Industry** – Engineering, business, and market trends.  
+- **Cars & Automotive Industry** – Engineering, business, and market trends.  
 
-- 🏦 **Investment Strategies** – Exploring wealth-building through different asset classes.
+- **Investment Strategies** – Exploring wealth-building through different asset classes.
 
-- 💻 **Software Engineering** – Building solutions that blend performance, security, and usability.
+- **Software Engineering** – Building solutions that blend performance, security, and usability.
 
 
 
-## 🚀 What I'm Working On  
+## What I'm Working On  
 
 - Expanding my knowledge in **finance, fintech, and trading**.  
 
@@ -37,22 +37,22 @@
 
 
 
-## 💬 Let's Connect!  
+## Let's Connect!  
 
 I'm always open to discussing **finance, fintech, cars, or cybersecurity** with like-minded individuals. If you're working on something interesting or just want to chat, feel free to reach out!  
 
 
 
-📩 **Email:** ridellsalema@gmail.com  
+**Email:** ridellsalema@gmail.com  
 
-💼 **LinkedIn:** https://www.linkedin.com/in/r-salema-21a2ba34a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+**LinkedIn:** https://www.linkedin.com/in/r-salema-21a2ba34a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
  
 
-📈 **GitHub Projects:** coming soon  
+**GitHub Projects:** coming soon  
 
 
 
-Looking forward to connecting and sharing ideas! 🚀  
+Looking forward to connecting and sharing ideas!   
 
 
 
