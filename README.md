@@ -1,5 +1,3 @@
-#Hi, I'm RIDELL SALEMA
-
 # 💫 About Me:
 
 https://ridellsalema.github.io/ridell-portfolio/
@@ -10,7 +8,7 @@ https://ridellsalema.github.io/ridell-portfolio/
 <br><br>🧠 Technical & Backend Interests
 <br><br>
 I enjoy building backend systems and thinking deeply about:<br><br>System architecture & scalability.Data flow, APIs, and databases.Reliability, performance, and clean design
-<br><br>Current projects:
+<br><br>🛠️Current projects:
 <br><br>Lightweight open-source POS system, Built for mobile use, freelancers, and small businesses, Focused on simplicity, speed, and accessibility
 <br><br>Investment banking deal tracker<br><br>Structured deal storage and analysis.Finance-driven backend logic.I’m actively looking for feedback, testing, and collaboration on these projects.
 
