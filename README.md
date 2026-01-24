@@ -17,8 +17,10 @@ Beyond software and finance, I’m deeply passionate about motor vehicles and th
 
 <br><br>🎨 Freelance & Creative Work<br><br>
 Freelance website development.Digital design for real-world clients. Clean layouts, usability, and functional design.Despite my interest in technical systems, I value creativity and expression in everything I build.
+
 <br><br>📚 Currently Learning<br><br>
-C++ (performance & systems thinking)<br><br>Java (enterprise & backend development)<br><br>COBOL (legacy systems in finance & banking)
+C++ (performance & systems thinking)<br><br>Java (enterprise & backend development)<br><br>COBOL (legacy systems in finance & banking)<br><br>
+
 <br><br>🤝 Collaboration & Help<br><br>
 I’m open to collaborating on:<br><br>Open-source software (especially the POS system)<br><br>Fintech products, prototypes, and experiments<br><br>You can ask me about:<br><br>Backend development<br><br>Finance & fintech concepts<br><br>Automotive systems & motoring<br><br>I’ll help to the best of my ability.<br><br>🎯 Fun Fact<br><br>I’m a creative at heart despite enjoying “boring” things like backend architecture, databases, and financial systems.
 
