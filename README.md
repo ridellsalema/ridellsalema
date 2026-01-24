@@ -10,7 +10,7 @@ https://ridellsalema.github.io/ridell-portfolio/
 I enjoy building backend systems and thinking deeply about:<br><br>System architecture & scalability.Data flow, APIs, and databases.Reliability, performance, and clean design
 <br><br>🛠️Current projects:
 <br><br>Lightweight open-source POS system, Built for mobile use, freelancers, and small businesses, Focused on simplicity, speed, and accessibility
-<br><br>Investment banking deal tracker<br><br>Structured deal storage and analysis.Finance-driven backend logic.I’m actively looking for feedback, testing, and collaboration on these projects.
+<br><br>Investment banking deal tracker. Structured deal storage and analysis.Finance-driven backend logic. <br> I’m actively looking for feedback, testing, and collaboration on these projects.
 
 <br><br>🚗 Automotive & Motoring<br><br>
 Beyond software and finance, I’m deeply passionate about motor vehicles and the automotive industry.Hands-on knowledge of motor mechanics.Interest in performance engineering.Curiosity about the business and innovation side of mobility.I also run a car-focused blogging platform, where I explore vehicles, industry trends, and automotive insights.
