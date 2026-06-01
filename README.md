@@ -2,27 +2,6 @@
 
 https://ridellsalema.github.io/ridell-portfolio/
 
-<br><br>I’m a finance and fintech enthusiast with a strong interest in economics, financial markets, and the systems that move money behind the scenes. I enjoy understanding how capital flows, how financial decisions are made, and how technology continues to reshape finance.
-
-<br><br>💰 Finance & Fintech Interests<br><br>Financial markets & economic systems.How institutions and individuals make financial decisions.Payments, banking infrastructure & fintech platforms.Investment analysis and deal tracking
-<br><br>🧠 Technical & Backend Interests
-<br><br>
-I enjoy building backend systems and thinking deeply about:<br><br>System architecture & scalability.Data flow, APIs, and databases.Reliability, performance, and clean design
-<br><br>🛠️Current projects:
-<br><br>Lightweight open-source POS system, Built for mobile use, freelancers, and small businesses, Focused on simplicity, speed, and accessibility
-<br><br>Investment banking deal tracker. Structured deal storage and analysis.Finance-driven backend logic. <br> I’m actively looking for feedback, testing, and collaboration on these projects.
-
-<br><br>🚗 Automotive & Motoring<br><br>
-Beyond software and finance, I’m deeply passionate about motor vehicles and the automotive industry.Hands-on knowledge of motor mechanics.Interest in performance engineering.Curiosity about the business and innovation side of mobility.I also run a car-focused blogging platform, where I explore vehicles, industry trends, and automotive insights.
-
-<br><br>🎨 Freelance & Creative Work<br><br>
-Freelance website development.Digital design for real-world clients. Clean layouts, usability, and functional design.Despite my interest in technical systems, I value creativity and expression in everything I build.
-
-<br><br>📚 Currently Learning<br><br>
-C++ (performance & systems thinking)<br><br>Java (enterprise & backend development)<br><br>COBOL (legacy systems in finance & banking)<br><br>
-
-<br><br>🤝 Collaboration & Help<br><br>
-I’m open to collaborating on:<br><br>Open-source software (especially the POS system)<br><br>Fintech products, prototypes, and experiments<br><br>You can ask me about:<br><br>Backend development<br><br>Finance & fintech concepts<br><br>Automotive systems & motoring<br><br>I’ll help to the best of my ability.<br><br>🎯 Fun Fact<br><br>I’m a creative at heart despite enjoying “boring” things like backend architecture, databases, and financial systems.
 
 
 ## 🌐 Socials:
